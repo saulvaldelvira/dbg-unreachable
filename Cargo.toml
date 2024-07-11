@@ -1,0 +1,9 @@
+[package]
+name = "dbg_unreachable"
+version = "0.1.0"
+edition = "2021"
+description = "Switch between unreachable! and unreachable_unchecked with a single macro"
+authors = ["Saúl Valdelvira <saul@saulv.es>"]
+license = "MIT"
+
+[dependencies]
